@@ -34,24 +34,7 @@ Aside from computer science, I'm also quite interested in developing my creative
 
 <br/> 
 
-## My Stats
-<div align="center">
-<a href="https://github.com/ScorpZer0?tab=repositories" >
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=scorpzer0&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="scorpzer0's github stats" />
-
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=scorpzer0&theme=midnight-purple&hide_border=true" alt="scorpzer0's streak" />
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpzer0&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="scorpzer0's languages" />
-
-</a>
-
-</div>
-
-<br/>
-
-## My Skillset
+## <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/nerd.GIF" height="28px" width="28px"/> My Skillset
 
 #### Languages  
 <div>  
@@ -89,6 +72,23 @@ Aside from computer science, I'm also quite interested in developing my creative
 <div>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+</div>
+
+<br/>
+
+## <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/work.GIF" height="28px" width="28px"/> My Stats 
+<div align="center">
+<a href="https://github.com/ScorpZer0?tab=repositories" >
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=scorpzer0&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="scorpzer0's github stats" />
+
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=scorpzer0&theme=midnight-purple&hide_border=true" alt="scorpzer0's streak" />
+
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpzer0&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="scorpzer0's languages" />
+
+</a>
+
 </div>
 
 <br/>

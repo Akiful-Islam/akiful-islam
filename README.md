@@ -66,7 +66,7 @@ Aside from computer science, I'm also quite interested in developing my creative
 #### Game Engines
 <div>
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="Unity" height="50" /></a>
-<a href="https://unrealengine.com/" target="_blank"> <img style="margin: 10px" src="https://w7.pngwing.com/pngs/302/260/png-transparent-unreal-engine-4-game-developers-conference-unreal-tournament-others-game-emblem-trademark.png" alt="Unreal Engine" height="50"/> </a>
+<a href="https://unrealengine.com/" target="_blank"> <img style="margin: 10px" src="https://icon-library.com/images/unreal-icon/unreal-icon-8.jpg" alt="Unreal Engine" height="50"/> </a>
 </div>
 
 #### Frameworks  

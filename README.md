@@ -36,3 +36,9 @@ Aside from computer science, I'm also quite interested in developing my creative
 </td></tr></table>  
 
 <br/> 
+
+## Check out My Based Music Taste
+I mostly listen to soundtracks.
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=04osvcy1mp2l4ohlymzms3pve&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)
+<br />

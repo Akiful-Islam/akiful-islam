@@ -31,9 +31,9 @@ Aside from computer science, I'm also quite interested in developing my creative
 <div align="center">
 <a href="https://github.com/ScorpZer0?tab=repositories" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=scorpzer0&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="scorpzer0's github stats" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=scorpzer0&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="scorpzer0's github stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=scorpzer0&theme=midnight-purple&hide_border=true" alt="scorpzer0's streak" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=scorpzer0&theme=midnight-purple&hide_border=true" alt="scorpzer0's streak" />
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpzer0&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="scorpzer0's languages" />

@@ -98,11 +98,14 @@ Have some rest
 <div align="center">
 <img src="https://github.com/ScorpZer0/ScorpZer0/blob/main/flares/rest here weary traveler.gif" alt="Rest Here Weary Traveler" width= 80% />
 </div>
-#### Why not check out some of my based music taste? <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/jerryjamm.GIF" height="24px" width="24px"/>
-I mostly listen to soundtracks.
+
+#### Check out some tracks while at it <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/jerryjamm.GIF" height="24px" width="24px"/>
+I mostly listen to soundtracks. (Based ik)
 <div align="center">
 <a href="https://open.spotify.com/user/04osvcy1mp2l4ohlymzms3pve">
 <img width="75%" src="https://spotify-github-profile.vercel.app/api/view?uid=04osvcy1mp2l4ohlymzms3pve&cover_image=true&theme=novatorem&show_offline=false&bar_color_cover=true" alt="Listening to on Spotify" />
 </a>
 </div>
 <br />
+
+

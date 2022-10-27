@@ -93,7 +93,7 @@ Aside from computer science, I'm also quite interested in developing my creative
 
 <br/>
 
-### Check out My Based Music Taste
+## Check out My Based Music Taste
 I mostly listen to soundtracks.
 
 <div align="left">
@@ -105,3 +105,10 @@ I mostly listen to soundtracks.
 </div>
 
 <br />
+
+### You must be tired from reading all that
+Have some rest
+
+<div align="center">
+<img src="https://github.com/ScorpZer0/ScorpZer0/blob/main/flares/rest here weary traveler.gif" alt="Rest Here Weary Traveler" width= 80% />
+</div>

@@ -7,3 +7,32 @@ Aside from computer science, I'm also quite interested in developing my creative
   
 
 <br/>  
+
+## About Me  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on my Bachelor's Degree at Shahjalal University of Science & Technology  
+  
+
+- 🌱 I’m currently learning Data Structures & Algorithms using Python  
+  
+
+- 💡 I'm interested in all things Gaming: Game Design, Game Development, Game balance, UX Design.  
+  
+
+- 💬 Talk to me about:  Video games, animes, movies, tv series, and all things pop culture.  
+  
+
+- ⚡ Fun fact: My profile picture wildly resembles my irl face.  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://github.com/ScorpZer0/ScorpZer0/blob/main/flares/chill.gif?raw=true" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/> 

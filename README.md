@@ -13,7 +13,7 @@ An aspiring software engineer, game developer, and enthusiast designer. Currentl
 
 Aside from computer science, I'm also quite interested in developing my creative abilities and studying new artistic things. Because I get so much knowledge from the entertainment I consume, I love engaging in them.  
 
-### Some quick facts
+### Some quick facts <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/amongsus.gif" height="24px" width="24px"/>
 
 <img src="https://github.com/ScorpZer0/ScorpZer0/blob/main/flares/chill.gif?raw=true" align="right" width= 40% />
 
@@ -93,7 +93,7 @@ Aside from computer science, I'm also quite interested in developing my creative
 
 <br/>
 
-## Check out My Based Music Taste
+## Check out My Based Music Taste <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/jerryjamm.GIF" height="28px" width="28px"/>
 I mostly listen to soundtracks.
 
 <div align="left">

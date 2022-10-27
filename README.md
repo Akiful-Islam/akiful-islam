@@ -1,4 +1,4 @@
-## Hello 👋, I'm Arian!  
+## Hello <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/fzpepehello.gif" height="30px" width="30px"/>, I'm Arian!  
   
 
 Aspiring software engineer, game developer, and enthusiast designer. Currently, a student at IICT, SUST, seeking a bachelor's in software engineering. I've had a fascination for video games since I was a wee boy and for as far back as I can remember I always wanted to make my own games. My areas of interest include Unity Engine, Unreal Engine, and Frontend Design.

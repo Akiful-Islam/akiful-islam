@@ -103,7 +103,7 @@ Have some rest
 I mostly listen to soundtracks. (Based ik)
 <div align="center">
 <a href="https://open.spotify.com/user/04osvcy1mp2l4ohlymzms3pve">
-<img width="75%" src="https://spotify-github-profile.vercel.app/api/view?uid=04osvcy1mp2l4ohlymzms3pve&cover_image=true&theme=novatorem&show_offline=false&bar_color_cover=true" alt="Listening to on Spotify" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=04osvcy1mp2l4ohlymzms3pve&cover_image=true&theme=novatorem&show_offline=false&bar_color_cover=true" alt="Listening to on Spotify" />
 </a>
 </div>
 <br />

@@ -1,8 +1,4 @@
-# Hello <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/fzpepehello.gif" height="30px" width="30px"/>, I'm Arian!
-#### Connect with me
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:arian.islam024@gmail.com)](mailto:arian.islam024@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-islam/)](https://www.linkedin.com/in/arian-islam/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/scorpzer00/)](https://www.facebook.com/scorpzer00/)
+# Hello <img src="/flares/fzpepehello.gif" height="30px" width="30px"/>, I'm Arian! [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:arian.islam024@gmail.com)](mailto:arian.islam024@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-islam/)](https://www.linkedin.com/in/arian-islam/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/scorpzer00/)](https://www.facebook.com/scorpzer00/)
 <!--
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/scorpzer0)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black&link=https://www.hackerrank.com/Defcon27)](https://leetcode.com/ScorpZer0/)
@@ -13,9 +9,9 @@ An aspiring software engineer, game developer, and enthusiast designer. Currentl
 
 Aside from computer science, I'm also quite interested in developing my creative abilities and studying new artistic things. Because I learn more from the entertainment I consume, I enjoy getting absorbed in them.
 
-### Some quick facts <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/amongsus.gif" height="24px" width="24px"/>
+### Some quick facts <img src="/flares/amongsus.gif" height="24px" width="24px"/>
 
-<img src="https://github.com/ScorpZer0/ScorpZer0/blob/main/flares/chill.gif?raw=true" align="right" width= 40% />
+<img src="/flares/chill.gif?raw=true" align="right" width= 40% />
 
 - 🔭 I’m currently working on my Bachelor's Degree at Shahjalal University of Science & Technology  
   
@@ -34,7 +30,7 @@ Aside from computer science, I'm also quite interested in developing my creative
 
 <br/> 
 
-## <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/nerd.GIF" height="28px" width="28px"/> My Skillset
+## <img src="/flares/nerd.GIF" height="28px" width="28px"/> My Skillset
 
 #### Languages  
 <div>  
@@ -70,19 +66,19 @@ Aside from computer science, I'm also quite interested in developing my creative
 
 #### Others  
 <div>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
 <br/>
 
-## <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/work.GIF" height="28px" width="28px"/> My Stats 
+## <img src="/flares/work.GIF" height="28px" width="28px"/> My Stats 
 <div align="center">
 <a href="https://github.com/ScorpZer0?tab=repositories" >
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=scorpzer0&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="scorpzer0's github stats" />
+<img width="" src="https://github-readme-stats.vercel.app/api?username=scorpzer0&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="scorpzer0's github stats" />
 
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=scorpzer0&theme=midnight-purple&hide_border=true" alt="scorpzer0's streak" />
+<img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=scorpzer0&theme=midnight-purple&hide_border=true" alt="scorpzer0's streak" />
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpzer0&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="scorpzer0's languages" />
@@ -96,10 +92,10 @@ Aside from computer science, I'm also quite interested in developing my creative
 ### You must be tired from reading all that
 Have some rest
 <div align="center">
-<img src="https://github.com/ScorpZer0/ScorpZer0/blob/main/flares/rest here weary traveler.gif" alt="Rest Here Weary Traveler" width= 80% />
+<img src="/flares/rest here weary traveler.gif" alt="Rest Here Weary Traveler" width= 80% />
 </div>
 
-#### Check out some tracks while at it <img src="https://github.com/ScorpZer0/ScorpZer0/raw/main/flares/jerryjamm.GIF" height="24px" width="24px"/>
+#### Check out some tracks while at it <img src="/flares/jerryjamm.GIF" height="24px" width="24px"/>
 I mostly listen to soundtracks. (Based ik)
 <div align="center">
 <a href="https://open.spotify.com/user/04osvcy1mp2l4ohlymzms3pve">

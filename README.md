@@ -1,11 +1,17 @@
-# Hello <img src="/flares/fzpepehello.gif" height="30px" width="30px"/>, I'm Arian! [![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:arian.islam024@gmail.com)](mailto:arian.islam024@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-islam/)](https://www.linkedin.com/in/arian-islam/)<!-- [![Facebook Badge](https://img.shields.io/badge/Follow-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/scorpzer00/)](https://www.facebook.com/scorpzer00/)-->
+# Hello <img src="/flares/fzpepehello.gif" height="30px" width="30px"/>, I'm Arian! [![Gmail Badge](https://img.shields.io/badge/-Email-bb001b?style=flat&logo=Gmail&logoColor=white&link=mailto:arian.islam024@gmail.com)](mailto:arian.islam024@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Connect-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-islam/)](https://www.linkedin.com/in/arian-islam/)
+<!-- 
+[![Itch.io Badge](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white&link=https://scorpzer0.itch.io/)](https://scorpzer0.itch.io/)
+-->
+
+
+<!-- [![Facebook Badge](https://img.shields.io/badge/Follow-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/scorpzer00/)](https://www.facebook.com/scorpzer00/)-->
 <!--
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/scorpzer0)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black&link=https://www.hackerrank.com/Defcon27)](https://leetcode.com/ScorpZer0/)
 -->
 ### A little about me
 
-An aspiring software engineer, game developer, and enthusiast designer. Currently, I'm a student at IICT, SUST, seeking a bachelor's in software engineering. I've had a fascination for video games since I was a wee boy and for as far back as I can remember I always wanted to make my own games. My areas of interest include Unity Engine, Unreal Engine, Godot Engine and Frontend Design.
+An aspiring software engineer, game developer, and enthusiast designer. Currently, I'm a student at IICT, SUST, seeking a bachelor's in software engineering. I've had a fascination for video games since I was a wee boy and for as far back as I can remember I always wanted to make my own games. My areas of interest include Unity Engine, Unreal Engine, and Frontend Design.
 
 Aside from computer science, I'm also quite interested in developing my creative abilities and studying new artistic things. Because I learn more from the entertainment I consume, I enjoy getting absorbed in them.
 

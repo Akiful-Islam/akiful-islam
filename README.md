@@ -21,13 +21,13 @@ Aside from computer science, I'm also quite interested in developing my creative
 - 🔭 I’m currently working on my Bachelor's Degree at Shahjalal University of Science & Technology  
   
 
-- 🌱 I’m currently learning frontend development with Typescript, React & Redux.  
+- 🌱 I’m currently learning Frontend Development with NextJs, Typescript, React & Redux.  
   
 
-- 💡 I'm interested in all things Gaming: Game Design, Game Development, Game balance, UX Design.  
+- 💡 I'm interested in all things Gaming: Game Design, Game Development, Game balance, UX Development and UX Design.  
   
 
-- 💬 Talk to me about:  Video games, Animes, Movies, TV Shows, and anything else geeky.
+- 💬 Talk to me about:  Video games, Animes, Movies, TV Shows, and everything geeky.
   
 
 - ⚡ Fun fact: My profile picture wildly resembles my irl face.  
@@ -38,10 +38,10 @@ Aside from computer science, I'm also quite interested in developing my creative
 ## <img src="/flares/nerd.GIF" height="28px" width="28px"/> My Skillset
 
 #### Languages  
-<div>     
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<div>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>   
@@ -54,15 +54,18 @@ Aside from computer science, I'm also quite interested in developing my creative
 <a href="https://unrealengine.com/" target="_blank"> <img style="margin: 10px" src="https://icon-library.com/images/unreal-icon/unreal-icon-8.jpg" alt="Unreal Engine" height="50"/> </a>
 </div>
 
-#### Frameworks  
+#### WebDev  
 <div>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://anypoint.mulesoft.com/exchange/organizations/68ef9520-24e9-4cf2-b2f5-620025690913/assets/org.mule.modules/mule-module-dotnet-connector/icon/png/?sha=c478954da55cc9ae5fe4657afe536b53af754a0c" alt=".NET" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50"/></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<!--
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://anypoint.mulesoft.com/exchange/organizations/68ef9520-24e9-4cf2-b2f5-620025690913/assets/org.mule.modules/mule-module-dotnet-connector/icon/png/?sha=c478954da55cc9ae5fe4657afe536b53af754a0c" alt=".NET" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>  
-
-#### Tools  
+-->
+  
+#### Design  
 <div>  
 <a href="https://www.canva.com/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" height="50" /> </a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  

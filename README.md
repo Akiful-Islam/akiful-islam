@@ -29,9 +29,7 @@ Aside from computer science, I'm also quite interested in developing my creative
 
 - 💬 Talk to me about:  Video games, Animes, Movies, TV Shows, and everything geeky.
   
-<!-- 
 - ⚡ Fun fact: My profile picture wildly resembles my irl face.  
--->
 
 <br/> 
 

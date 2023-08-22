@@ -84,6 +84,7 @@ Aside from computer science, I'm also quite interested in developing my creative
 
 <br/>
 
+<!--
 ## <img src="/flares/work.GIF" height="28px" width="28px"/> My Stats 
 <div align="center">
 <a href="https://github.com/Akiful-Islam?tab=repositories" >
@@ -101,6 +102,7 @@ Aside from computer science, I'm also quite interested in developing my creative
 
 <br/>
 
+-->
 ### You must be tired from reading all that
 Have some rest
 <div align="center">

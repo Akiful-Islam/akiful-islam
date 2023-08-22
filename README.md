@@ -48,12 +48,6 @@ Aside from computer science, I'm also quite interested in developing my creative
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a> 
 </div>  
 
-#### Game Engines
-<div>
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="Unity" height="50" /></a>
-<a href="https://unrealengine.com/" target="_blank"> <img style="margin: 10px" src="https://icon-library.com/images/unreal-icon/unreal-icon-8.jpg" alt="Unreal Engine" height="50"/> </a>
-</div>
-
 #### WebDev  
 <div>
  <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/core.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a> 
@@ -67,6 +61,12 @@ Aside from computer science, I'm also quite interested in developing my creative
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>  
 -->
+
+#### Game Engines
+<div>
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="Unity" height="50" /></a>
+<a href="https://unrealengine.com/" target="_blank"> <img style="margin: 10px" src="https://icon-library.com/images/unreal-icon/unreal-icon-8.jpg" alt="Unreal Engine" height="50"/> </a>
+</div>
   
 #### Design  
 <div>  
@@ -84,17 +84,16 @@ Aside from computer science, I'm also quite interested in developing my creative
 
 <br/>
 
-<!--
 ## <img src="/flares/work.GIF" height="28px" width="28px"/> My Stats 
 <div align="center">
 <a href="https://github.com/Akiful-Islam?tab=repositories" >
 
-<img width="" src="https://github-readme-stats.vercel.app/api?username=Akiful-Islam&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="Akiful-Islam's github stats" />
+<img width="" src="https://github-readme-stats.vercel.app/api?username=Akiful-Islam&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Akiful-Islam's github stats" />
 
 <img width="" src="https://github-readme-streak-stats.herokuapp.com/?user=Akiful-Islam&theme=midnight-purple&hide_border=true" alt="Akiful-Islam's streak" />
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiful-Islam&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Akiful-Islam's languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiful-Islam&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Akiful-Islam's languages" />
 
 </a>
 
@@ -102,7 +101,6 @@ Aside from computer science, I'm also quite interested in developing my creative
 
 <br/>
 
--->
 ### You must be tired from reading all that
 Have some rest
 <div align="center">

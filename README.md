@@ -11,7 +11,9 @@
 -->
 ### A little about me
 
-An aspiring software engineer, game developer, and enthusiast designer. Currently, I'm a student at IICT, SUST, seeking a bachelor's in software engineering. I've had a fascination for video games since I was a wee boy and for as far back as I can remember I always wanted to make my own games. My areas of interest include Unity Engine, Unreal Engine, and Frontend Design.
+My journey as a developer began with an enthusiasm for game design, playing plenty of games as a child intrigued me to learn more about the creativity behind them, which inspired me to become a professional game designer and developer. Hobby turned into passion for game development. So I pursued software engineering as a way to turn my passion into a career.
+
+As I learned more about programming, I developed an interest in full-stack development, with a preference for the frontend side, where I could experiment with the design aspect that I learned from designing games. I am also venturing into the world of Web3 development, where I aspire to learn new skills and interests as well as prepare myself for the future of technology.
 
 Aside from computer science, I'm also quite interested in developing my creative abilities and studying new artistic things. Because I learn more from the entertainment I consume, I enjoy getting absorbed in them.
 
@@ -21,10 +23,10 @@ Aside from computer science, I'm also quite interested in developing my creative
 - 🔭 I’m currently working on my Bachelor's Degree at Shahjalal University of Science & Technology  
   
 
-- 🌱 I’m currently learning Fullstack Development with NextJs, Typescript, & Spring Boot.  
+- 🌱 I’m currently learning Web3 Development and Rust programming language.  
   
 
-- 💡 I'm interested in all things Gaming: Game Design, Game Development, Game balance, as well as whatever interests me.  
+- 💡 I'm interested in: Game Development and Design, UX Design and Frontend Development.  
   
 
 - 💬 Talk to me about:  Video games, Animes, Movies, TV Shows, and everything geeky.

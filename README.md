@@ -1,12 +1,8 @@
-# Hello <img src="/flares/fzpepehello.gif" height="30px" width="30px"/>, I'm Arian! [![Gmail Badge](https://img.shields.io/badge/-Email-bb001b?style=flat&logo=Gmail&logoColor=white&link=mailto:arian.islam024@gmail.com)](mailto:arian.islam024@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Connect-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-islam/)](https://www.linkedin.com/in/arian-islam/)
+# Hello, I'm Arian! <img src="/flares/fzpepehello.gif" height="30px" width="30px"/> 
+[![Gmail Badge](https://img.shields.io/badge/-Email-bb001b?style=flat&logo=Gmail&logoColor=white&link=mailto:arian.islam024@gmail.com)](mailto:arian.islam024@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Connect-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-islam/)](https://www.linkedin.com/in/arian-islam/)
 <!-- 
 [![Itch.io Badge](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white&link=https://scorpzer0.itch.io/)](https://scorpzer0.itch.io/)
--->
-
-
-<!-- [![Facebook Badge](https://img.shields.io/badge/Follow-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/scorpzer00/)](https://www.facebook.com/scorpzer00/)-->
-<!--
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/scorpzer0)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black&link=https://www.hackerrank.com/Defcon27)](https://leetcode.com/ScorpZer0/)
 -->
 ### A little about me
@@ -43,10 +39,8 @@ Aside from computer science, I'm also quite interested in developing my creative
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
   <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a> 
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a> 
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
 </div>  
 
 #### WebDev  
@@ -56,19 +50,17 @@ Aside from computer science, I'm also quite interested in developing my creative
 <a href="https://reactjs.org/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50"/></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
-</div>
-<!--
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://anypoint.mulesoft.com/exchange/organizations/68ef9520-24e9-4cf2-b2f5-620025690913/assets/org.mule.modules/mule-module-dotnet-connector/icon/png/?sha=c478954da55cc9ae5fe4657afe536b53af754a0c" alt=".NET" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>  
--->
 
-#### Game Engines
-<div>
+
+#### Others  
+<div>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="Unity" height="50" /></a>
-<a href="https://unrealengine.com/" target="_blank"> <img style="margin: 10px" src="https://icon-library.com/images/unreal-icon/unreal-icon-8.jpg" alt="Unreal Engine" height="50"/> </a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
-  
+
 #### Design  
 <div>  
 <a href="https://www.canva.com/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" height="50" /> </a>
@@ -76,12 +68,6 @@ Aside from computer science, I'm also quite interested in developing my creative
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 </div>  
-
-#### Others  
-<div>  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
 
 <br/>
 

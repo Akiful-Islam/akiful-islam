@@ -16,13 +16,13 @@ Aside from computer science, I'm also quite interested in developing my creative
 ### Some quick facts <img src="/flares/amongsus.gif" height="24px" width="24px"/>
 <img src="/flares/chill.gif" align="right" width= 40% />
 
-- 🔭 I’m currently working on my Bachelor's Degree at Shahjalal University of Science & Technology  
+- 🔭 I’m working as a Junior Software Engineer at Dynamic Solution Innovators.
   
 
-- 🌱 I’m currently learning Web3 Development and Rust programming language.  
+- 🌱 I’m currently learning Software Architecture and System Design.  
   
 
-- 💡 I'm interested in: Game Development and Design, UX Design and Frontend Development.  
+- 💡 I'm interested in: Web3, Machine Learning, and Game Design & Development.  
   
 
 - 💬 Talk to me about:  Video games, Animes, Movies, TV Shows, and everything geeky.
